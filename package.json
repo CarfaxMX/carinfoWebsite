@@ -1,0 +1,14 @@
+{
+  "name": "carinfowebsite",
+  "version": "1.0.0",
+  "description": "Sitio de carinfo",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "cuauhtemoc",
+  "license": "ISC"
+}
